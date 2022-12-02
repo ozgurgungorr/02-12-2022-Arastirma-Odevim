@@ -3,4 +3,4 @@ Flexible system and display :flex</p>
 
 
 
-<h1>Tasarım aşamasında   :D </h1>
+<h1>Tasarım aşamasında....</h1>
